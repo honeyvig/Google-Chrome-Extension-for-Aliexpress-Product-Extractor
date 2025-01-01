@@ -1,4 +1,4 @@
-# Google-Chrome-Extension-for-LAiexpress-Product-Extractor
+# Google-Chrome-Extension-for-Aliexpress-Product-Extractor
 
 The goal is to create a Chrome extension that:
 1. Can extract product information from an open AliExpress product page
